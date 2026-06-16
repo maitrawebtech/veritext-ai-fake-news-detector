@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Concept & Objective
+## 📖 Concept & Objective that wiill blow you mbb
 
 Misinformation deeply affects high-stakes societal domains like **elections, healthcare choices, and global financial markets**. That is why internet platforms, cyber defense agencies, and premium newsrooms invest heavily in early computational detection. 
 
