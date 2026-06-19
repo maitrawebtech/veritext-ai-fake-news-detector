@@ -119,7 +119,7 @@ VeriText includes a special **Pragmatic Deployments Hub** illustrating how to pa
 
 **VeriText.AI is explicitly developed as an academic NLP research aid.** It measures structural sensationalism, linguistic objectivity factor, and wire attribution syntax. **It is not an infallible real-world fact checker.** 
 
-When making critical public health, electoral voting, or financial market decisions, please verify truth through authoritative institutional registries (`CISA.gov`, `WHO`, `FDA`, `SEC`) and authenticated human investigative investigative newsrooms.
+When making critical public health, electoral voting, or financial market decisions, please verify truth through authoritative institutional registries (`CISA.gov`, `WHO`, `FDA`, `SEC`,) and authenticated human investigative investigative newsrooms.
 
 ---
 
