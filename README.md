@@ -1,4 +1,4 @@
-# 🛡️ VeriText.AI — Fake News Detection & NLP Interpretability Workbench
+dmds# 🛡️ VeriText.AI — Fake News Detection & NLP Interpretability Workbench
 
 ![VeriText AI Banner](https://img.shields.io/badge/System-NLP%20Fake%20News%20Detection%20%26%20Interpretability-4f46e5?style=for-the-badge&logo=probot&logoColor=white)
 ![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Tailwind%20CSS-06B6D4?style=for-the-badge&logo=react&logoColor=white)
